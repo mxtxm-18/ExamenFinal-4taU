@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: burlywood;
+    background-color: darkcyan;
+}
+
+libros:hover{
+    transform: scale(1.05);
+}
+
+libros libros_Dis p1{
+    color: cadetblue;
+
+
+}
